@@ -1,26 +1,16 @@
+{
+//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"1.1",
-
-"url":"https://github.com/channyein1993/CNK/blob/main/vpn.zip?raw=true",
-
+//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
+"Url":"https://github.com/channyein1993/CNK/blob/main/vpn.zip?raw=true" ,
 "Changelog":"
-
-မင်္ဂလာပါ
-
-တွေ့ရတာ ဝမ်းမသာပါဖူး...
-ကျနော် ကောင်းကောင်းပါ။
-ကျနော် ထီပေါက်ပါစေ
-လို့ ဆုတောင်းပေး 
-ကြပါ😁
+မ ဂင်္လာပါ 
 ",
+//ไม่ต้องยุ่งด้านล่าง
 "latestVersion": "1.0.0",
-
 "latestVersionCode": "1",
-
-"url":"",
-
-"releaseNotes": [
-
- "-Demo"
-   ]
-
-   }
+"url": "",
+ "releaseNotes": [
+  "-Demo"
+    ]
+    }
